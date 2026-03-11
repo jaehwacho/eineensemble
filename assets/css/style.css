@@ -629,28 +629,22 @@ p {
 
 .history-timeline {
   position: relative;
-  padding-left: 2rem;
-  border-left: 2px solid rgba(184, 134, 11, 0.2);
-  max-height: 480px;
-  overflow-y: auto;
-  scrollbar-width: thin;
-  scrollbar-color: var(--color-accent) transparent;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 2rem;
 }
-
-.history-timeline::-webkit-scrollbar { width: 4px; }
-.history-timeline::-webkit-scrollbar-track { background: transparent; }
-.history-timeline::-webkit-scrollbar-thumb { background: var(--color-accent); border-radius: 2px; }
 
 .history-item {
   position: relative;
   margin-bottom: 1.5rem;
   padding-left: 1rem;
+  border-left: 2px solid rgba(184, 134, 11, 0.2);
 }
 
 .history-item::before {
   content: '';
   position: absolute;
-  left: -2.5rem;
+  left: -1.1rem;
   top: 0.4rem;
   width: 8px;
   height: 8px;
@@ -662,7 +656,7 @@ p {
 .history-item.highlight::before {
   width: 12px;
   height: 12px;
-  left: -2.7rem;
+  left: -1.3rem;
   top: 0.2rem;
   background: var(--color-secondary);
 }
@@ -1427,6 +1421,7 @@ footer {
   .gallery-placeholder-grid { grid-template-columns: repeat(2, 1fr); }
   .gallery-grid { columns: 2; }
   .contact-grid { grid-template-columns: 1fr; gap: 2rem; }
+  .history-timeline { grid-template-columns: 1fr; }
 
   .concert-item {
     grid-template-columns: 1fr;
