@@ -1,0 +1,18 @@
+{
+  "name": "아이네앙상블 EineEnsemble",
+  "short_name": "EineEnsemble",
+  "description": "1997년 창단된 경남 최초의 플루트 전문연주단체",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2c1810",
+  "theme_color": "#2c1810",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

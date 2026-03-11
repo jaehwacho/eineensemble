@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>김 영 — 아이네앙상블 EineEnsemble</title>
+  <meta name="description" content="김 영 — 대표 · 음악감독 · 플루트. 아이네앙상블 단원 프로필.">
+  <link rel="icon" type="image/svg+xml" href="../favicon.svg">
+  <link rel="manifest" href="../site.webmanifest">
+  <meta name="theme-color" content="#2c1810">
+  <link rel="stylesheet" href="../assets/css/style.css">
+  <link rel="stylesheet" href="../assets/css/components.css">
+  <link rel="stylesheet" href="../assets/css/animations.css">
+  <link rel="stylesheet" href="../assets/css/member-profile.css">
+</head>
+<body class="profile-page">
+  <nav id="navbar" role="navigation" aria-label="주 내비게이션">
+    <div class="container">
+      <a href="../index.html" class="nav-logo">Eine<span>Ensemble</span></a>
+      <ul class="nav-menu" role="list">
+        <li><a href="../index.html#about" class="nav-link" data-i18n="nav.about">소개</a></li>
+        <li><a href="../index.html#members" class="nav-link" data-i18n="nav.members">단원</a></li>
+        <li><a href="../index.html#gallery" class="nav-link" data-i18n="nav.gallery">갤러리</a></li>
+        <li><a href="../index.html#contact" class="nav-link" data-i18n="nav.contact">문의</a></li>
+        <li>
+          <div class="lang-switcher">
+            <button class="lang-btn active" data-lang="ko">KO</button>
+            <button class="lang-btn" data-lang="en">EN</button>
+          </div>
+        </li>
+      </ul>
+      <button class="nav-toggle" id="navToggle" aria-label="메뉴 열기" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+  <div class="nav-overlay" id="navOverlay" role="dialog" aria-modal="true">
+    <button class="overlay-close" id="overlayClose" aria-label="메뉴 닫기">×</button>
+    <a href="../index.html#about" class="nav-link" data-i18n="nav.about">소개</a>
+    <a href="../index.html#members" class="nav-link" data-i18n="nav.members">단원</a>
+    <a href="../index.html#gallery" class="nav-link" data-i18n="nav.gallery">갤러리</a>
+    <a href="../index.html#contact" class="nav-link" data-i18n="nav.contact">문의</a>
+    <div class="lang-switcher">
+      <button class="lang-btn active" data-lang="ko">KO</button>
+      <button class="lang-btn" data-lang="en">EN</button>
+    </div>
+  </div>
+
+  <section class="profile-hero">
+    <div class="container">
+      <div class="profile-hero-content">
+        <div class="profile-photo-wrap">
+          <img class="profile-photo"
+               src="../assets/images/members/kim-young.webp"
+               alt="김 영"
+               onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+          <div class="profile-photo-placeholder" style="display:none">
+            <span class="profile-initials-large">김영</span>
+          </div>
+        </div>
+        <div class="profile-meta">
+          <div class="profile-order">01 / 16</div>
+          <h1 class="profile-name"
+              id="profileName"
+              data-member-ko="김 영"
+              data-member-en="Kim Young">김 영</h1>
+          <p class="profile-role"
+             id="profileRole"
+             data-member-ko="대표 · 음악감독 · 플루트"
+             data-member-en="Director · Music Director · Flute">대표 · 음악감독 · 플루트</p>
+          <div class="profile-tags">
+            <span class="profile-tag">플루트</span><span class="profile-tag">음악감독</span><span class="profile-tag">대표</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <main class="profile-body">
+    <div class="container">
+      <a href="../index.html#members" class="back-btn" data-i18n="profile.back">← 단원 목록</a>
+      <div class="profile-content-grid">
+        <div>
+          <div class="profile-section animate-on-scroll">
+            <h2 class="profile-section-title" data-i18n="profile.bio">소개</h2>
+            <p class="profile-bio"
+               id="profileBio"
+               data-member-ko="아이네앙상블의 대표이자 음악감독으로, 영국 왕립음악대학교와 미국 미주리주립대학교에서 연주학 석사를 취득하였습니다. 경성대학교에서 음악학 석·박사 학위를 취득하였으며, 현재 미주리대학교 아시아센터 객원교수로 활동 중입니다."
+               data-member-en="As the director and music director of Eine Ensemble, Kim Young received her Master's degrees from the Royal Academy of Music in the UK and the University of Missouri in the USA. She holds a Ph.D. in Musicology from Kyungsung University and currently serves as a Visiting Professor at the Asian Center, University of Missouri.">아이네앙상블의 대표이자 음악감독으로, 영국 왕립음악대학교와 미국 미주리주립대학교에서 연주학 석사를 취득하였습니다. 경성대학교에서 음악학 석·박사 학위를 취득하였으며, 현재 미주리대학교 아시아센터 객원교수로 활동 중입니다.</p>
+          </div>
+          <div class="profile-section animate-on-scroll delay-1">
+            <h2 class="profile-section-title" data-i18n="profile.education">학력</h2>
+            <ul class="profile-list"
+                id="profileEducation"
+                data-member-ko='["부산대학교","영국 왕립음악대학교 연주학 석사","미국 미주리주립대학교 연주학 석사","아리조나주립대학교 연주학 박사 수료","경성대학교 음악학 석·박사"]'
+                data-member-en='["Pusan National University","M.M. Royal Academy of Music, UK","M.M. University of Missouri","D.M.A. candidate, Arizona State University","Ph.D. Kyungsung University"]'>
+              <li>부산대학교</li><li>영국 왕립음악대학교 연주학 석사</li><li>미국 미주리주립대학교 연주학 석사</li><li>아리조나주립대학교 연주학 박사 수료</li><li>경성대학교 음악학 석·박사</li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <div class="profile-section animate-on-scroll delay-2">
+            <h2 class="profile-section-title" data-i18n="profile.awards">수상 경력</h2>
+            <ul class="profile-list"
+                id="profileAwards"
+                data-member-ko='["한국예술평론가협의회 제40회 올해의 최우수예술가 (심사위원 선정 특별예술가 '음악부문')"]'
+                data-member-en='["40th Outstanding Artist of the Year, Korea Arts Critics Association (Special Artist in Music)"]'>
+              <li>한국예술평론가협의회 제40회 올해의 최우수예술가 (심사위원 선정 특별예술가 '음악부문')</li>
+            </ul>
+          </div>
+          <div class="profile-section animate-on-scroll delay-3">
+            <h2 class="profile-section-title" data-i18n="profile.current">현재 활동</h2>
+            <ul class="profile-list"
+                id="profileCurrent"
+                data-member-ko='["미주리대학교 아시아센터 객원교수","음악학자"]'
+                data-member-en='["Visiting Professor, Asian Center, University of Missouri","Musicologist"]'>
+              <li>미주리대학교 아시아센터 객원교수</li><li>음악학자</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer role="contentinfo">
+    <div class="footer-logo">EineEnsemble</div>
+    <p class="footer-copy" data-i18n="footer.copy">© 2025 아이네앙상블. All rights reserved.</p>
+  </footer>
+
+  <script type="module">
+    import I18n from '../assets/js/i18n.js';
+    import Navigation from '../assets/js/navigation.js';
+    import Animations from '../assets/js/animations.js';
+
+    document.addEventListener('DOMContentLoaded', () => {
+      I18n.init();
+      Navigation.init();
+      Animations.init();
+
+      function applyLang(lang) {
+        document.querySelectorAll('[data-member-ko]').forEach(el => {
+          const val = lang === 'ko' ? el.dataset.memberKo : el.dataset.memberEn;
+          if (!val) return;
+          if (val.startsWith('[')) {
+            try {
+              const items = JSON.parse(val);
+              el.innerHTML = items.map(i => `<li>${i}</li>`).join('');
+            } catch(e) {}
+          } else {
+            el.textContent = val;
+          }
+        });
+      }
+
+      applyLang(I18n.getLang());
+      document.addEventListener('langchange', e => applyLang(e.detail.lang));
+    });
+  </script>
+</body>
+</html>

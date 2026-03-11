@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>윤현기 — 아이네앙상블 EineEnsemble</title>
+  <meta name="description" content="윤현기 — 피아노. 아이네앙상블 단원 프로필.">
+  <link rel="icon" type="image/svg+xml" href="../favicon.svg">
+  <link rel="manifest" href="../site.webmanifest">
+  <meta name="theme-color" content="#2c1810">
+  <link rel="stylesheet" href="../assets/css/style.css">
+  <link rel="stylesheet" href="../assets/css/components.css">
+  <link rel="stylesheet" href="../assets/css/animations.css">
+  <link rel="stylesheet" href="../assets/css/member-profile.css">
+</head>
+<body class="profile-page">
+  <nav id="navbar" role="navigation" aria-label="주 내비게이션">
+    <div class="container">
+      <a href="../index.html" class="nav-logo">Eine<span>Ensemble</span></a>
+      <ul class="nav-menu" role="list">
+        <li><a href="../index.html#about" class="nav-link" data-i18n="nav.about">소개</a></li>
+        <li><a href="../index.html#members" class="nav-link" data-i18n="nav.members">단원</a></li>
+        <li><a href="../index.html#gallery" class="nav-link" data-i18n="nav.gallery">갤러리</a></li>
+        <li><a href="../index.html#contact" class="nav-link" data-i18n="nav.contact">문의</a></li>
+        <li>
+          <div class="lang-switcher">
+            <button class="lang-btn active" data-lang="ko">KO</button>
+            <button class="lang-btn" data-lang="en">EN</button>
+          </div>
+        </li>
+      </ul>
+      <button class="nav-toggle" id="navToggle" aria-label="메뉴 열기" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+  <div class="nav-overlay" id="navOverlay" role="dialog" aria-modal="true">
+    <button class="overlay-close" id="overlayClose" aria-label="메뉴 닫기">×</button>
+    <a href="../index.html#about" class="nav-link" data-i18n="nav.about">소개</a>
+    <a href="../index.html#members" class="nav-link" data-i18n="nav.members">단원</a>
+    <a href="../index.html#gallery" class="nav-link" data-i18n="nav.gallery">갤러리</a>
+    <a href="../index.html#contact" class="nav-link" data-i18n="nav.contact">문의</a>
+    <div class="lang-switcher">
+      <button class="lang-btn active" data-lang="ko">KO</button>
+      <button class="lang-btn" data-lang="en">EN</button>
+    </div>
+  </div>
+
+  <section class="profile-hero">
+    <div class="container">
+      <div class="profile-hero-content">
+        <div class="profile-photo-wrap">
+          <img class="profile-photo"
+               src="../assets/images/members/yoon-hyunki.webp"
+               alt="윤현기"
+               onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+          <div class="profile-photo-placeholder" style="display:none">
+            <span class="profile-initials-large">윤현</span>
+          </div>
+        </div>
+        <div class="profile-meta">
+          <div class="profile-order">15 / 16</div>
+          <h1 class="profile-name"
+              id="profileName"
+              data-member-ko="윤현기"
+              data-member-en="Yoon Hyunki">윤현기</h1>
+          <p class="profile-role"
+             id="profileRole"
+             data-member-ko="피아노"
+             data-member-en="Piano">피아노</p>
+          <div class="profile-tags">
+            <span class="profile-tag">피아노</span><span class="profile-tag">카네기홀</span><span class="profile-tag">미국</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <main class="profile-body">
+    <div class="container">
+      <a href="../index.html#members" class="back-btn" data-i18n="profile.back">← 단원 목록</a>
+      <div class="profile-content-grid">
+        <div>
+          <div class="profile-section animate-on-scroll">
+            <h2 class="profile-section-title" data-i18n="profile.bio">소개</h2>
+            <p class="profile-bio"
+               id="profileBio"
+               data-member-ko="미주리주립대학교(UMKC)에서 피아노 연주학 박사를 취득하였으며, 아메리칸 프라이즈에서 1위를 수상하였습니다. 2015년 뉴욕 카네기홀에서 데뷔 리사이틀을 가졌으며, 현재 캔자스시티 로커스트대학에 출강하며 Music Director로 활동 중입니다."
+               data-member-en="Yoon Hyunki holds a D.M.A. from UMKC and won First Prize at The American Prize. He made his Carnegie Hall debut in New York in 2015 and currently teaches at Locust Street Music School in Kansas City.">미주리주립대학교(UMKC)에서 피아노 연주학 박사를 취득하였으며, 아메리칸 프라이즈에서 1위를 수상하였습니다. 2015년 뉴욕 카네기홀에서 데뷔 리사이틀을 가졌으며, 현재 캔자스시티 로커스트대학에 출강하며 Music Director로 활동 중입니다.</p>
+          </div>
+          <div class="profile-section animate-on-scroll delay-1">
+            <h2 class="profile-section-title" data-i18n="profile.education">학력</h2>
+            <ul class="profile-list"
+                id="profileEducation"
+                data-member-ko='["미주리주립대학교(UMKC) 피아노 연주학 박사"]'
+                data-member-en='["D.M.A. Piano Performance, University of Missouri-Kansas City (UMKC)"]'>
+              <li>미주리주립대학교(UMKC) 피아노 연주학 박사</li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <div class="profile-section animate-on-scroll delay-2">
+            <h2 class="profile-section-title" data-i18n="profile.awards">수상 경력</h2>
+            <ul class="profile-list"
+                id="profileAwards"
+                data-member-ko='["아메리칸 프라이즈 1위","2015년 뉴욕 카네기홀 데뷔"]'
+                data-member-en='["1st Prize, The American Prize","Carnegie Hall Debut Recital, New York, 2015"]'>
+              <li>아메리칸 프라이즈 1위</li><li>2015년 뉴욕 카네기홀 데뷔</li>
+            </ul>
+          </div>
+          <div class="profile-section animate-on-scroll delay-3">
+            <h2 class="profile-section-title" data-i18n="profile.current">현재 활동</h2>
+            <ul class="profile-list"
+                id="profileCurrent"
+                data-member-ko='["캔자스시티 로커스트대학 출강","Music Director"]'
+                data-member-en='["Faculty, Locust Street Music School, Kansas City","Music Director"]'>
+              <li>캔자스시티 로커스트대학 출강</li><li>Music Director</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer role="contentinfo">
+    <div class="footer-logo">EineEnsemble</div>
+    <p class="footer-copy" data-i18n="footer.copy">© 2025 아이네앙상블. All rights reserved.</p>
+  </footer>
+
+  <script type="module">
+    import I18n from '../assets/js/i18n.js';
+    import Navigation from '../assets/js/navigation.js';
+    import Animations from '../assets/js/animations.js';
+
+    document.addEventListener('DOMContentLoaded', () => {
+      I18n.init();
+      Navigation.init();
+      Animations.init();
+
+      function applyLang(lang) {
+        document.querySelectorAll('[data-member-ko]').forEach(el => {
+          const val = lang === 'ko' ? el.dataset.memberKo : el.dataset.memberEn;
+          if (!val) return;
+          if (val.startsWith('[')) {
+            try {
+              const items = JSON.parse(val);
+              el.innerHTML = items.map(i => `<li>${i}</li>`).join('');
+            } catch(e) {}
+          } else {
+            el.textContent = val;
+          }
+        });
+      }
+
+      applyLang(I18n.getLang());
+      document.addEventListener('langchange', e => applyLang(e.detail.lang));
+    });
+  </script>
+</body>
+</html>
