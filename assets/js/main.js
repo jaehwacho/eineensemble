@@ -293,6 +293,36 @@ async function renderConcerts() {
 }
 
 // ----------------------------------------
+// History rendering
+// ----------------------------------------
+async function renderHistory() {
+  const container = document.getElementById('historyTimeline');
+  if (!container) return;
+
+  try {
+    const basePath = document.location.pathname.includes('/members/') ? '../' : '';
+    const res = await fetch(`${basePath}data/history.json`);
+    if (!res.ok) throw new Error('Failed to load history');
+    const items = await res.json();
+
+    function renderItems(lang) {
+      container.innerHTML = items.map(item => `
+        <div class="history-item${item.highlight ? ' highlight' : ''}" role="listitem">
+          <div class="history-date">${item.date}</div>
+          <div class="history-event">${item[lang] || item.ko}</div>
+        </div>
+      `).join('');
+    }
+
+    renderItems(I18n.getLang());
+    document.addEventListener('langchange', e => renderItems(e.detail.lang));
+
+  } catch (err) {
+    console.warn('History data load failed:', err);
+  }
+}
+
+// ----------------------------------------
 // Contact form
 // ----------------------------------------
 function setupContactForm() {
@@ -379,6 +409,7 @@ document.addEventListener('DOMContentLoaded', () => {
   renderVideos();
   setupVideoModal();
   renderConcerts();
+  renderHistory();
   setupContactForm();
 
   // Hero image
