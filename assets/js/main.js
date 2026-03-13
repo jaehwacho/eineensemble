@@ -259,7 +259,7 @@ async function renderConcerts() {
 
         const isPast = concert.status === 'past';
         return `
-          <div class="concert-item animate-on-scroll${isPast ? ' past-concert' : ''}">
+          <div class="concert-item${isPast ? ' past-concert' : ''}">
             <div class="concert-date-block">
               <span class="concert-date-month">${dateDisplay.month}</span>
               <span class="concert-date-day">${dateDisplay.day}</span>
