@@ -274,7 +274,9 @@ async function renderConcerts() {
             <div>
               ${data.ticketUrl
                 ? `<a href="${data.ticketUrl}" class="concert-ticket" target="_blank" rel="noopener">${lang === 'ko' ? '티켓' : 'Tickets'}</a>`
-                : `<span class="concert-ticket-na">${lang === 'ko' ? '추후 공지' : 'TBA'}</span>`
+                : isPast
+                  ? `<span class="concert-ticket-na">${lang === 'ko' ? '완료' : 'Completed'}</span>`
+                  : `<span class="concert-ticket-na">${lang === 'ko' ? '추후 공지' : 'TBA'}</span>`
               }
             </div>
           </div>

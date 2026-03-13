@@ -3,122 +3,122 @@
     "id": "kim-young",
     "slug": "kim-young",
     "order": 1,
-    "photo": "assets/images/members/kim-young.webp",
+    "photo": "assets/images/members/kim-young.jpg",
     "ko": {
       "name": "김 영",
-      "role": "대표 · 음악감독 · 플루트",
-      "education": ["부산대학교", "영국 왕립음악대학교 연주학 석사", "미국 미주리주립대학교 연주학 석사", "아리조나주립대학교 연주학 박사 수료", "경성대학교 음악학 석·박사"],
-      "awards": ["한국예술평론가협의회 제40회 올해의 최우수예술가 (심사위원 선정 특별예술가 '음악부문')"],
-      "current": ["미주리대학교 아시아센터 객원교수", "음악학자"],
-      "bio": "아이네앙상블의 대표이자 음악감독으로, 영국 왕립음악대학교와 미국 미주리주립대학교에서 연주학 석사를 취득하였습니다. 경성대학교에서 음악학 석·박사 학위를 취득하였으며, 현재 미주리대학교 아시아센터 객원교수로 활동 중입니다."
+      "role": "대표 · 음악감독",
+      "education": ["부산대학교", "영국왕립음악대학교 연주학 석사", "미국 미주리 주립대학교 연주학석사", "아리조나 주립대학교 연주학 박사 수료", "경성대학교 음악대학 음악학 석·박사"],
+      "awards": ["부산시향·마산시향·진주시향 협연 및 국내외 수회 독주회 (일본·체코·영국·미국 등)", "한국예술평론가협의회 제40회 올해의 최우수예술가 (심사위원 선정 특별예술가 '음악부문')"],
+      "current": ["미주리대학교 아시아센터 객원교수", "음악학자", "창원 문화재단·창원문화원 인문학 강의"],
+      "bio": "아이네앙상블의 대표이자 음악감독으로, 영국왕립음악대학교와 미국 미주리 주립대학교에서 연주학 석사를 취득하였습니다. 아리조나 주립대학교 박사과정 수료 후 경성대학교 음악대학에서 음악학 석·박사를 취득하였으며, 부산시향·마산시향·진주시향과 협연하고 국내외 수회 독주회를 가졌습니다. 한국예술평론가협의회 제40회 올해의 최우수예술가로 선정되었으며, 현재 미주리대학교 아시아센터 객원교수 및 음악학자로 활동 중입니다."
     },
     "en": {
       "name": "Kim Young",
-      "role": "Director · Music Director · Flute",
-      "education": ["Pusan National University", "M.M. Royal Academy of Music, UK", "M.M. University of Missouri", "D.M.A. candidate, Arizona State University", "Ph.D. Kyungsung University"],
-      "awards": ["40th Outstanding Artist of the Year, Korea Arts Critics Association (Special Artist in Music)"],
-      "current": ["Visiting Professor, Asian Center, University of Missouri", "Musicologist"],
-      "bio": "As the director and music director of Eine Ensemble, Kim Young received her Master's degrees from the Royal Academy of Music in the UK and the University of Missouri in the USA. She holds a Ph.D. in Musicology from Kyungsung University and currently serves as a Visiting Professor at the Asian Center, University of Missouri."
+      "role": "Director · Music Director",
+      "education": ["Pusan National University", "M.M. Royal Academy of Music, UK", "M.M. University of Missouri, USA", "D.M.A. candidate, Arizona State University", "Ph.D. Kyungsung University"],
+      "awards": ["Concerto performances with Busan, Masan & Jinju Philharmonics; solo recitals in Japan, Czech Republic, UK & USA", "40th Outstanding Artist of the Year, Korea Arts Critics Association (Special Artist in Music)"],
+      "current": ["Visiting Professor, Asian Center, University of Missouri", "Musicologist", "Humanities Lecturer, Changwon Culture Foundation & Changwon Cultural Center"],
+      "bio": "As the director and music director of Eine Ensemble, Kim Young holds master's degrees from the Royal Academy of Music (UK) and the University of Missouri (USA). After completing doctoral studies at Arizona State University, she earned her Ph.D. in Musicology from Kyungsung University. She has performed with the Busan, Masan, and Jinju Philharmonics and given numerous solo recitals in Korea and abroad. She was named Outstanding Artist of the Year by the Korea Arts Critics Association and currently serves as Visiting Professor at the Asian Center, University of Missouri."
     }
   },
   {
     "id": "kim-jongwan",
     "slug": "kim-jongwan",
     "order": 2,
-    "photo": "assets/images/members/kim-jongwan.webp",
+    "photo": "assets/images/members/kim-jongwan.jpg",
     "ko": {
       "name": "김종완",
       "role": "부대표 · 반도네온 · 편곡",
-      "education": ["부산대학교 작곡과", "서울대학교 작곡과 대학원"],
-      "awards": ["2020 한국음악상 젊은 음악가상"],
+      "education": ["부산대학교 예술대학 음악학과 작곡전공 졸업", "서울대학교 음악대학 작곡과 대학원 재학"],
+      "awards": ["2020 한국음악상 젊은 음악가상", "영화 <내겐 너무 소중한 너>·뮤지컬 <오늘> 음악작곡", "2018·2019 부산국제영화제 개막공연 <시네마 콘서트> 편곡", "피아노 앨범 <물> 발매", "개인작품발표회 <쉼, 멈춤의 음악>·<IN/EX-HALE> 개최", "두레라움 윈드오케스트라·CBS오케스트라 협연"],
       "current": ["친친탱고 대표", "웨스턴심포니오케스트라 전속작곡가"],
-      "bio": "부산대학교 작곡과와 서울대학교 대학원을 졸업하였으며, 2020 한국음악상 젊은 음악가상을 수상하였습니다. 영화·뮤지컬 음악 작곡가로 활동하며 현재 친친탱고 대표 및 웨스턴심포니오케스트라 전속작곡가로 활동 중입니다."
+      "bio": "부산대학교 작곡과를 졸업하고 서울대학교 대학원에서 작곡을 공부하였습니다. 2020 한국음악상 젊은 음악가상을 수상하였으며, 영화와 뮤지컬 음악 작곡가로 활동하고 있습니다. 부산국제영화제 개막공연을 편곡하고 피아노 앨범 <물>을 발매하였으며, 반도네오니스트 고상지에게 사사하였습니다. 현재 친친탱고 대표 및 웨스턴심포니오케스트라 전속작곡가로 활동 중입니다."
     },
     "en": {
       "name": "Kim Jongwan",
       "role": "Vice Director · Bandoneon · Arranger",
-      "education": ["B.M. Composition, Pusan National University", "M.M. Composition, Seoul National University"],
-      "awards": ["Young Musician Award, 2020 Korean Music Award"],
+      "education": ["B.M. Composition, Pusan National University", "Graduate Studies in Composition, Seoul National University"],
+      "awards": ["Young Musician Award, 2020 Korean Music Award", "Film score: <You Are So Precious to Me>, Musical score: <Today>", "Arranger, Opening Concert <Cinema Concert>, Busan International Film Festival 2018 & 2019", "Piano album <Water> released", "Solo exhibitions <Music of Rest and Pause>, <IN/EX-HALE>", "Concerto with Dooraum Wind Orchestra & CBS Orchestra"],
       "current": ["Director, Chin Chin Tango", "Resident Composer, Western Symphony Orchestra"],
-      "bio": "A graduate of Pusan National University and Seoul National University's composition programs, Kim Jongwan received the Young Musician Award at the 2020 Korean Music Award. He currently serves as director of Chin Chin Tango and resident composer for the Western Symphony Orchestra."
+      "bio": "Kim Jongwan graduated from Pusan National University's composition program and pursued graduate studies at Seoul National University. Winner of the Young Musician Award at the 2020 Korean Music Award, he is active as a film and musical composer. He arranged the opening concerts of the Busan International Film Festival and released the piano album <Water>. He currently directs Chin Chin Tango and serves as resident composer for the Western Symphony Orchestra."
     }
   },
   {
     "id": "ahn-hyungsoo",
     "slug": "ahn-hyungsoo",
     "order": 3,
-    "photo": "assets/images/members/ahn-hyungsoo.webp",
+    "photo": "assets/images/members/ahn-hyungsoo.jpg",
     "ko": {
       "name": "안형수",
       "role": "클래식기타",
-      "education": ["스페인 왕립음악원 졸업"],
-      "awards": [],
+      "education": ["스페인 왕립음악원 졸업 (Diploma de Perfeccionamiento de Guitarra)"],
+      "awards": ["KBS교향악단·부천시향·포항시향 등 다수 교향악단 협연 및 수백 회 독주회·실내악 연주", "'Lady Alicia Records'(스페인)·'서울음반'·'Sony Music' 음반 7장 및 다수 기획음반·디지털 음원 발매"],
       "current": ["안형수콰르텟 리더", "서울교육대학교 외래교수"],
-      "bio": "스페인 왕립음악원을 졸업하였으며 국내외 수백 회의 독주회를 가졌습니다. 스페인·서울·Sony Music 음반 7장을 발매하였고, 현재 안형수콰르텟 리더 및 서울교육대학교 외래교수로 활동 중입니다."
+      "bio": "스페인 왕립음악원에서 Diploma de Perfeccionamiento de Guitarra를 취득하였습니다. KBS교향악단·부천시향·포항시향 등 여러 교향악단과 협연하였으며, 수백 회의 독주회와 실내악 연주를 가졌습니다. 스페인·서울·Sony Music 레이블에서 7장의 독집과 다수의 기획음반을 발매하였으며, 현재 안형수콰르텟 리더 및 서울교육대학교 외래교수로 활동 중입니다."
     },
     "en": {
       "name": "Ahn Hyungsoo",
       "role": "Classical Guitar",
-      "education": ["Graduated, Real Conservatorio Superior de Música de Madrid"],
-      "awards": [],
+      "education": ["Diploma de Perfeccionamiento de Guitarra, Real Conservatorio Superior de Música de Madrid"],
+      "awards": ["Concerto performances with KBS Symphony, Bucheon Philharmonic, Pohang Symphony & more; hundreds of solo recitals", "7 solo albums released on Lady Alicia Records (Spain), Seoul Records & Sony Music, plus numerous compilation albums and digital releases"],
       "current": ["Leader, Ahn Hyungsoo Quartet", "Adjunct Professor, Seoul National University of Education"],
-      "bio": "A graduate of the Real Conservatorio Superior de Música de Madrid, Ahn Hyungsoo has performed hundreds of solo recitals worldwide and released 7 albums with labels in Spain, Seoul, and Sony Music."
+      "bio": "Ahn Hyungsoo earned his Diploma de Perfeccionamiento de Guitarra from the Real Conservatorio Superior de Música de Madrid. He has performed with the KBS Symphony Orchestra, Bucheon Philharmonic, and Pohang Symphony, among others, and has given hundreds of solo recitals worldwide. He has released 7 albums with Spanish, Korean, and Sony Music labels and currently leads the Ahn Hyungsoo Quartet and teaches at Seoul National University of Education."
     }
   },
   {
     "id": "kim-hyejin",
     "slug": "kim-hyejin",
     "order": 4,
-    "photo": "assets/images/members/kim-hyejin.webp",
+    "photo": "assets/images/members/kim-hyejin.jpg",
     "ko": {
       "name": "김혜진",
       "role": "바이올린",
-      "education": ["부산대학교 음악학과 및 동대학원"],
-      "awards": [],
+      "education": ["부산대학교 예술대학 음악학과 및 동대학원 졸업"],
+      "awards": ["부산예술중·고등학교 출강"],
       "current": ["창원시립교향악단 단원", "스트링콰르텟 클레다 리더"],
-      "bio": "부산대학교 음악학과 및 동대학원을 졸업하였으며, 현재 창원시립교향악단 단원 및 스트링콰르텟 클레다 리더로 활동 중입니다."
+      "bio": "부산대학교 예술대학 음악학과 및 동대학원을 졸업하였습니다. 부산예술중·고등학교 출강을 역임하였으며, 현재 창원시립교향악단 단원 및 스트링콰르텟 클레다 리더로 활동 중입니다."
     },
     "en": {
       "name": "Kim Hyejin",
       "role": "Violin",
-      "education": ["B.M. and M.M., Pusan National University"],
-      "awards": [],
+      "education": ["B.M. and M.M., College of Arts, Pusan National University"],
+      "awards": ["Lecturer, Busan Arts Middle & High School"],
       "current": ["Member, Changwon City Symphony Orchestra", "Leader, String Quartet Cleda"],
-      "bio": "A graduate of Pusan National University's music program, Kim Hyejin currently performs with the Changwon City Symphony Orchestra and leads the String Quartet Cleda."
+      "bio": "Kim Hyejin graduated from Pusan National University's College of Arts with both undergraduate and graduate degrees. She has taught at Busan Arts Middle and High School and currently performs with the Changwon City Symphony Orchestra and leads the String Quartet Cleda."
     }
   },
   {
-    "id": "lee-jieun",
-    "slug": "lee-jieun",
+    "id": "jo-jinyoung",
+    "slug": "jo-jinyoung",
     "order": 5,
-    "photo": "assets/images/members/lee-jieun.webp",
+    "photo": "assets/images/members/jo-jinyoung.jpg",
     "ko": {
-      "name": "이지은",
-      "role": "바이올린",
-      "education": ["부산예술고등학교", "단국대학교 기악과"],
+      "name": "조진영",
+      "role": "비올라",
+      "education": ["부산예술고등학교 졸업", "동덕여자대학교 음악대학 졸업", "인제대학교 대학원 석사 졸업", "동대학원 박사수료"],
       "awards": [],
-      "current": ["창원시립교향악단 단원"],
-      "bio": "부산예술고등학교를 졸업하고 단국대학교 기악과를 졸업하였으며, 현재 창원시립교향악단 단원으로 활동 중입니다."
+      "current": ["창원시립교향악단 단원", "부산예술중·고등학교·경남대학교 출강"],
+      "bio": "부산예술고등학교를 졸업하고 동덕여자대학교 음악대학을 졸업하였습니다. 인제대학교 대학원에서 석사를 취득하고 동대학원 박사과정을 수료하였습니다. 현재 창원시립교향악단 단원으로 활동하며 부산예술중·고등학교 및 경남대학교에 출강하고 있습니다."
     },
     "en": {
-      "name": "Lee Jieun",
-      "role": "Violin",
-      "education": ["Busan Arts High School", "B.M. Instrumental Music, Dankook University"],
+      "name": "Jo Jinyoung",
+      "role": "Viola",
+      "education": ["Busan Arts High School", "B.M. Dongduk Women's University", "M.M. Inje University Graduate School", "D.M.A. candidate, Inje University Graduate School"],
       "awards": [],
-      "current": ["Member, Changwon City Symphony Orchestra"],
-      "bio": "Lee Jieun graduated from Busan Arts High School and Dankook University's instrumental music program. She currently performs as a member of the Changwon City Symphony Orchestra."
+      "current": ["Member, Changwon City Symphony Orchestra", "Lecturer, Busan Arts Middle & High School and Kyungnam University"],
+      "bio": "Jo Jinyoung graduated from Busan Arts High School and Dongduk Women's University's music program. She holds a master's degree from Inje University and has completed doctoral coursework there. She currently performs with the Changwon City Symphony Orchestra and teaches at Busan Arts Middle and High School and Kyungnam University."
     }
   },
   {
     "id": "kim-jungyeon",
     "slug": "kim-jungyeon",
     "order": 6,
-    "photo": "assets/images/members/kim-jungyeon.webp",
+    "photo": "assets/images/members/kim-jungyeon.jpg",
     "ko": {
       "name": "김정연",
       "role": "피아노",
-      "education": ["경희대학교 및 동대학원"],
-      "awards": [],
+      "education": ["경희대학교 및 동대학원 졸업"],
+      "awards": ["국제대학교·창원대학교 외래교수 역임"],
       "current": ["장유여성합창단 반주자", "일신 가고파하모니 반주자"],
       "bio": "경희대학교 및 동대학원을 졸업하였으며, 국제대학교·창원대학교 외래교수를 역임하였습니다. 현재 장유여성합창단 및 일신 가고파하모니의 반주자로 활동 중입니다."
     },
@@ -126,7 +126,7 @@
       "name": "Kim Jungyeon",
       "role": "Piano",
       "education": ["B.M. and M.M., Kyung Hee University"],
-      "awards": [],
+      "awards": ["Former Adjunct Professor, International University of Korea & Changwon National University"],
       "current": ["Accompanist, Jangyu Women's Choir", "Accompanist, Ilshin Gagopa Harmony"],
       "bio": "A graduate of Kyung Hee University, Kim Jungyeon has served as an adjunct professor at International University of Korea and Changwon National University. She currently works as an accompanist for the Jangyu Women's Choir and Ilshin Gagopa Harmony."
     }
@@ -135,55 +135,55 @@
     "id": "lee-dongyeol",
     "slug": "lee-dongyeol",
     "order": 7,
-    "photo": "assets/images/members/lee-dongyeol.webp",
+    "photo": "assets/images/members/lee-dongyeol.png",
     "ko": {
       "name": "이동열",
       "role": "첼로 (객원)",
-      "education": ["계명대학교", "독일 뒤셀도르프 국립음대 전문연주자과정"],
-      "awards": [],
-      "current": ["계명대학교 관현악과 교수"],
-      "bio": "계명대학교와 독일 뒤셀도르프 국립음대 전문연주자과정을 졸업하였으며, 대구시립교향악단·성남시립교향악단·국립심포니오케스트라와 협연하였습니다. 현재 계명대학교 관현악과 교수로 재직 중입니다."
+      "education": ["계명대학교 음악공연예술대학 졸업", "독일 뒤셀도르프 국립음대 전문연주자과정 졸업"],
+      "awards": ["슈만음악원 오케스트라 수석 역임", "대구시향·성남시향·국립심포니오케스트라 협연"],
+      "current": ["계명대학교 음악공연예술대학 관현악과 교수"],
+      "bio": "계명대학교 음악공연예술대학을 졸업하고 독일 뒤셀도르프 국립음대에서 전문연주자과정을 이수하였습니다. 슈만음악원 오케스트라 수석을 역임하였으며, 대구시향·성남시향·국립심포니오케스트라와 협연하였습니다. 현재 계명대학교 음악공연예술대학 관현악과 교수로 재직 중입니다."
     },
     "en": {
       "name": "Lee Dongyeol",
       "role": "Cello (Guest)",
-      "education": ["Keimyung University", "Soloist Program, Robert Schumann Hochschule Düsseldorf"],
-      "awards": [],
+      "education": ["Keimyung University College of Music & Performing Arts", "Soloist Program, Robert Schumann Hochschule Düsseldorf"],
+      "awards": ["Principal, Schumann Hochschule Orchestra", "Concerto performances with Daegu Symphony, Seongnam Symphony & Korea National Symphony Orchestra"],
       "current": ["Professor, Department of Orchestra, Keimyung University"],
-      "bio": "Lee Dongyeol studied at Keimyung University and completed the soloist program at Robert Schumann Hochschule in Düsseldorf. He has performed as soloist with the Daegu Symphony, Seongnam Symphony, and Korea National Symphony Orchestra and currently serves as Professor at Keimyung University."
+      "bio": "Lee Dongyeol studied at Keimyung University and completed the soloist program at Robert Schumann Hochschule in Düsseldorf. He served as principal of the Schumann Hochschule Orchestra and performed as soloist with the Daegu, Seongnam, and Korea National Symphony Orchestras. He currently serves as professor at Keimyung University."
     }
   },
   {
     "id": "kim-hyebin",
     "slug": "kim-hyebin",
     "order": 8,
-    "photo": "assets/images/members/kim-hyebin.webp",
+    "photo": "assets/images/members/kim-hyebin.jpg",
     "ko": {
       "name": "김혜빈",
       "role": "플루트",
-      "education": ["대전예술고등학교", "목원대학교 관현악학부 수석 졸업"],
-      "awards": [],
+      "education": ["대전예술고등학교 졸업", "목원대학교 관현악학부 수석졸업"],
+      "awards": ["웅남중학교 오케스트라 플루트강사 역임"],
       "current": ["아이네앙상블 단원"],
-      "bio": "대전예술고등학교를 졸업하고 목원대학교 관현악학부를 수석으로 졸업하였습니다. 현재 아이네앙상블 단원으로 활동 중입니다."
+      "bio": "대전예술고등학교를 졸업하고 목원대학교 관현악학부를 수석으로 졸업하였습니다. 웅남중학교 오케스트라 플루트강사를 역임하였으며, 현재 아이네앙상블 단원으로 활동 중입니다."
     },
     "en": {
       "name": "Kim Hyebin",
       "role": "Flute",
       "education": ["Daejeon Arts High School", "Valedictorian, B.M. Mokwon University"],
-      "awards": [],
+      "awards": ["Former Flute Instructor, Ungnam Middle School Orchestra"],
       "current": ["Member, Eine Ensemble"],
-      "bio": "Kim Hyebin graduated valedictorian from Mokwon University's orchestral studies program after completing Daejeon Arts High School. She currently performs as a member of Eine Ensemble."
+      "bio": "Kim Hyebin graduated valedictorian from Mokwon University's orchestral studies program after completing Daejeon Arts High School. She served as flute instructor for the Ungnam Middle School Orchestra and currently performs as a member of Eine Ensemble."
     }
   },
   {
     "id": "kang-minwoo",
     "slug": "kang-minwoo",
     "order": 9,
-    "photo": "assets/images/members/kang-minwoo.webp",
+    "photo": "assets/images/members/kang-minwoo.jpg",
     "ko": {
       "name": "강민우",
       "role": "베이스플루트",
-      "education": ["목원대학교 관현악학부"],
+      "education": ["목원대학교 관현악학부 졸업"],
       "awards": [],
       "current": ["아이네앙상블 단원"],
       "bio": "목원대학교 관현악학부를 졸업하였으며, 현재 아이네앙상블 단원으로 활동 중입니다."
@@ -201,154 +201,132 @@
     "id": "kang-byunggon",
     "slug": "kang-byunggon",
     "order": 10,
-    "photo": "assets/images/members/kang-byunggon.webp",
+    "photo": "assets/images/members/kang-byunggon.jpg",
     "ko": {
       "name": "강병곤",
       "role": "타악기 · 드럼",
-      "education": ["계명대학교 대학원 뮤직프로덕션 석사"],
-      "awards": [],
+      "education": ["계명대학교 일반대학원 미디어아트학과 뮤직프로덕션전공 석사 졸업"],
+      "awards": ["경남필하모닉오케스트라·경남심포닉밴드·함안윈드오케스트라·창원시남성합창단·창원시립합창단 객원 드러머"],
       "current": ["재즈국제공항 대표", "아이네앙상블 단원", "경남심포닉밴드 단원", "유니크앙상블 단원"],
-      "bio": "계명대학교 대학원에서 뮤직프로덕션 석사를 취득하였습니다. 현재 재즈국제공항 대표 및 아이네앙상블·경남심포닉밴드·유니크앙상블 단원으로 활동 중입니다."
+      "bio": "계명대학교 일반대학원 미디어아트학과 뮤직프로덕션전공에서 석사를 취득하였습니다. 경남필하모닉오케스트라, 경남심포닉밴드, 함안윈드오케스트라, 창원시남성합창단, 창원시립합창단의 객원 드러머로 활동하였습니다. 현재 재즈국제공항 대표 및 아이네앙상블·경남심포닉밴드·유니크앙상블 단원으로 활동 중입니다."
     },
     "en": {
       "name": "Kang Byunggon",
       "role": "Percussion · Drums",
-      "education": ["M.M. Music Production, Keimyung University Graduate School"],
-      "awards": [],
+      "education": ["M.M. Music Production, Media Arts Dept., Keimyung University Graduate School"],
+      "awards": ["Guest Drummer: Gyeongnam Philharmonic, Gyeongnam Symphonic Band, Haman Wind Orchestra, Changwon Men's Choir & Changwon City Choir"],
       "current": ["Director, Jazz International Airport", "Member, Eine Ensemble", "Member, Gyeongnam Symphonic Band", "Member, Unique Ensemble"],
-      "bio": "Kang Byunggon holds a Master's degree in Music Production from Keimyung University. He currently serves as director of Jazz International Airport and performs with Eine Ensemble, Gyeongnam Symphonic Band, and Unique Ensemble."
-    }
-  },
-  {
-    "id": "jung-guyeong",
-    "slug": "jung-guyeong",
-    "order": 11,
-    "photo": "assets/images/members/jung-guyeong.webp",
-    "ko": {
-      "name": "정구영",
-      "role": "한국무용",
-      "education": [],
-      "awards": ["국가무형문화재 처용무 이수자"],
-      "current": ["국립창원대학교 외래교수", "창원시립무용단 수석단원"],
-      "bio": "국가무형문화재 처용무 이수자로서, 현재 국립창원대학교 외래교수 및 창원시립무용단 수석단원으로 활동 중입니다."
-    },
-    "en": {
-      "name": "Jung Guyeong",
-      "role": "Korean Traditional Dance",
-      "education": [],
-      "awards": ["Certified Practitioner, National Intangible Cultural Heritage: Cheoyongmu Dance"],
-      "current": ["Adjunct Professor, Changwon National University", "Principal Dancer, Changwon City Dance Company"],
-      "bio": "Jung Guyeong is a certified practitioner of Cheoyongmu, a Korean national intangible cultural heritage dance. He currently serves as an adjunct professor at Changwon National University and as a principal dancer with the Changwon City Dance Company."
+      "bio": "Kang Byunggon holds a Master's degree in Music Production from Keimyung University. He has performed as guest drummer with the Gyeongnam Philharmonic, Gyeongnam Symphonic Band, Haman Wind Orchestra, and Changwon choral ensembles. He currently serves as director of Jazz International Airport and performs with Eine Ensemble, Gyeongnam Symphonic Band, and Unique Ensemble."
     }
   },
   {
     "id": "kim-minjung",
     "slug": "kim-minjung",
-    "order": 12,
-    "photo": "assets/images/members/kim-minjung.webp",
+    "order": 11,
+    "photo": "assets/images/members/kim-minjung.jpg",
     "ko": {
       "name": "김민정",
       "role": "플루트 · 피콜로 (객원)",
-      "education": ["계명대학교", "독일 드레스덴 국립음대 Diplom", "독일 드레스덴 국립음대 Konzertexamen"],
-      "awards": [],
-      "current": ["창원시립교향악단 부수석"],
-      "bio": "계명대학교를 졸업하고 독일 드레스덴 국립음대에서 Diplom 및 Konzertexamen을 취득하였습니다. 현재 창원시립교향악단 부수석으로 활동 중입니다."
+      "education": ["계명대학교 음악대학 관현악과 졸업", "독일 드레스덴 국립음대 Diplom 졸업", "독일 드레스덴 국립음대 Konzertexamen 졸업"],
+      "awards": ["인제대학교 겸임교수 역임", "계명대학교·대신대학교 강사 역임"],
+      "current": ["부산예술고등학교 출강", "창원시립교향악단 부수석"],
+      "bio": "계명대학교 음악대학 관현악과를 졸업하고 독일 드레스덴 국립음대에서 Diplom 및 Konzertexamen을 취득하였습니다. 인제대학교 겸임교수, 계명대학교·대신대학교 강사를 역임하였으며, 현재 부산예술고등학교에 출강하고 창원시립교향악단 부수석으로 활동 중입니다."
     },
     "en": {
       "name": "Kim Minjung",
       "role": "Flute · Piccolo (Guest)",
-      "education": ["Keimyung University", "Diplom, Hochschule für Musik Carl Maria von Weber Dresden", "Konzertexamen, Hochschule für Musik Carl Maria von Weber Dresden"],
-      "awards": [],
-      "current": ["Associate Principal, Changwon City Symphony Orchestra"],
-      "bio": "Kim Minjung graduated from Keimyung University and earned her Diplom and Konzertexamen from the Hochschule für Musik Carl Maria von Weber in Dresden. She currently serves as Associate Principal of the Changwon City Symphony Orchestra."
-    }
-  },
-  {
-    "id": "jung-gyeoun",
-    "slug": "jung-gyeoun",
-    "order": 13,
-    "photo": "assets/images/members/jung-gyeoun.webp",
-    "ko": {
-      "name": "정겨운",
-      "role": "해금 (객원)",
-      "education": ["서울대학교 국악과", "서울대학교 대학원 국악과 박사"],
-      "awards": [],
-      "current": ["추계예술대학교 외래교수", "해금살롱 대표"],
-      "bio": "서울대학교 국악과를 졸업하고 동대학원에서 박사 학위를 취득하였습니다. 부산시립국악관현악단을 역임하였으며, 현재 추계예술대학교 외래교수 및 해금살롱 대표로 활동 중입니다."
-    },
-    "en": {
-      "name": "Jung Gyeoun",
-      "role": "Haegeum (Guest)",
-      "education": ["B.M. Korean Traditional Music, Seoul National University", "Ph.D. Korean Traditional Music, Seoul National University"],
-      "awards": [],
-      "current": ["Adjunct Professor, Chugye University for the Arts", "Director, Haegeum Salon"],
-      "bio": "Jung Gyeoun received both her undergraduate and doctoral degrees in Korean traditional music from Seoul National University. After serving with the Busan Metropolitan Traditional Music Orchestra, she currently teaches at Chugye University for the Arts and directs the Haegeum Salon."
+      "education": ["B.M. Orchestra, Keimyung University", "Diplom, Hochschule für Musik Carl Maria von Weber Dresden", "Konzertexamen, Hochschule für Musik Carl Maria von Weber Dresden"],
+      "awards": ["Former Adjunct Professor, Inje University", "Former Lecturer, Keimyung University & Daesin University"],
+      "current": ["Lecturer, Busan Arts High School", "Associate Principal, Changwon City Symphony Orchestra"],
+      "bio": "Kim Minjung graduated from Keimyung University and earned her Diplom and Konzertexamen from the Hochschule für Musik Carl Maria von Weber in Dresden. She has served as adjunct professor at Inje University and lecturer at Keimyung and Daesin Universities. She currently teaches at Busan Arts High School and serves as Associate Principal of the Changwon City Symphony Orchestra."
     }
   },
   {
     "id": "choi-nayoon",
     "slug": "choi-nayoon",
-    "order": 14,
-    "photo": "assets/images/members/choi-nayoon.webp",
+    "order": 12,
+    "photo": "assets/images/members/choi-nayoon.jpg",
     "ko": {
       "name": "최나윤",
       "role": "플루트",
-      "education": ["영국 왕립음악대학", "트리니티 음악대학 석사", "일리노이주립대학교 석사", "조지메이슨주립대학교 박사"],
-      "awards": [],
-      "current": ["메리디안 트리오 단원", "조지메이슨주립대학교 교수"],
-      "bio": "영국 왕립음악대학과 트리니티 음악대학에서 공부하였으며, 일리노이주립대학교와 조지메이슨주립대학교에서 각각 석사와 박사 학위를 취득하였습니다. 현재 메리디안 트리오 단원 및 조지메이슨주립대학교 교수로 활동 중입니다."
+      "education": ["영국 왕립음악대학교", "런던 트리니티 음악대학교 문헌 석사", "일리노이주립대학교 플루트연주학 석사", "조지메이슨주립대학교 플루트연주학 박사"],
+      "awards": ["조지메이슨대학교·일리노이주립대학교 콘체르토 콩쿠르 우승", "North London Chamber Festival 2위", "한국·영국·유럽·미국 수십 회 솔로 리사이틀 및 실내악 연주", "스페인·영국 투어 콘서트"],
+      "current": ["메리디안 트리오 단원", "조지메이슨주립대학교 부임교수", "조지메이슨주립대학교 커뮤니티 아트아카데미 출강"],
+      "bio": "영국 왕립음악대학교와 런던 트리니티 음악대학교를 거쳐 일리노이주립대학교에서 석사, 조지메이슨주립대학교에서 플루트연주학 박사를 취득하였습니다. 두 대학교의 콘체르토 콩쿠르에서 우승하였으며, 한국·영국·유럽·미국에서 수십 회의 솔로 리사이틀과 실내악 연주를 가졌습니다. 현재 메리디안 트리오 단원 및 조지메이슨주립대학교 교수로 활동 중입니다."
     },
     "en": {
       "name": "Choi Nayoon",
       "role": "Flute",
-      "education": ["Royal Academy of Music, UK", "M.M. Trinity College of Music", "M.M. Illinois State University", "D.M.A. George Mason University"],
-      "awards": [],
-      "current": ["Member, Meridian Trio", "Faculty, George Mason University"],
-      "bio": "Choi Nayoon studied at the Royal Academy of Music and Trinity College of Music in the UK, then pursued advanced degrees at Illinois State University and George Mason University. She currently performs with Meridian Trio and teaches at George Mason University."
+      "education": ["Royal Academy of Music, UK", "M.M. Literature, Trinity College of Music, London", "M.M. Flute Performance, Illinois State University", "D.M.A. Flute Performance, George Mason University"],
+      "awards": ["Concerto Competition Winner, George Mason University & Illinois State University", "2nd Prize, North London Chamber Festival", "Dozens of solo recitals and chamber concerts in Korea, UK, Europe & USA", "Spain & UK Tour Concerts"],
+      "current": ["Member, Meridian Trio", "Faculty, George Mason University", "Lecturer, George Mason University Community Arts Academy"],
+      "bio": "Choi Nayoon studied at the Royal Academy of Music and Trinity College of Music in London before earning her master's degree at Illinois State University and her D.M.A. from George Mason University. She won concerto competitions at both universities and has performed dozens of solo recitals across Korea, the UK, Europe, and the USA. She currently performs with Meridian Trio and teaches at George Mason University."
     }
   },
   {
     "id": "yoon-hyunki",
     "slug": "yoon-hyunki",
-    "order": 15,
-    "photo": "assets/images/members/yoon-hyunki.webp",
+    "order": 13,
+    "photo": "assets/images/members/yoon-hyunki.png",
     "ko": {
       "name": "윤현기",
       "role": "피아노",
-      "education": ["미주리주립대학교(UMKC) 피아노 연주학 박사"],
-      "awards": ["아메리칸 프라이즈 1위", "2015년 뉴욕 카네기홀 데뷔"],
+      "education": ["미주리주립대학교 연주학 석사", "미국 미주리주립대학교(UMKC) 피아노 연주학 박사"],
+      "awards": ["미국 MMTA 콩쿠르 우승", "아메리칸 프라이즈 1위", "아메리칸 프로티지 국제 콩쿠르 2위", "2015년 뉴욕 카네기홀 초청 데뷔 콘서트", "스페인·슬로바키아·오스트리아·베트남 수회 독주회 및 실내악 연주"],
       "current": ["캔자스시티 로커스트대학 출강", "Music Director"],
-      "bio": "미주리주립대학교(UMKC)에서 피아노 연주학 박사를 취득하였으며, 아메리칸 프라이즈에서 1위를 수상하였습니다. 2015년 뉴욕 카네기홀에서 데뷔 리사이틀을 가졌으며, 현재 캔자스시티 로커스트대학에 출강하며 Music Director로 활동 중입니다."
+      "bio": "미주리주립대학교에서 연주학 석사를, 미주리주립대학교(UMKC)에서 피아노 연주학 박사를 취득하였습니다. 미국 MMTA 콩쿠르 우승, 아메리칸 프라이즈 1위, 아메리칸 프로티지 국제 콩쿠르 2위를 수상하였습니다. 2015년 뉴욕 카네기홀 초청 데뷔 콘서트를 가졌으며, 스페인·슬로바키아·오스트리아·베트남 등에서 수회 독주회 및 실내악 연주를 하였습니다. 현재 캔자스시티 로커스트대학에 출강하며 Music Director로 활동 중입니다."
     },
     "en": {
       "name": "Yoon Hyunki",
       "role": "Piano",
-      "education": ["D.M.A. Piano Performance, University of Missouri-Kansas City (UMKC)"],
-      "awards": ["1st Prize, The American Prize", "Carnegie Hall Debut Recital, New York, 2015"],
+      "education": ["M.M. Piano Performance, University of Missouri", "D.M.A. Piano Performance, University of Missouri-Kansas City (UMKC)"],
+      "awards": ["1st Prize, MMTA Competition, USA", "1st Prize, The American Prize", "2nd Prize, American Protégé International Competition", "Carnegie Hall Debut Recital, New York, 2015", "Solo recitals and chamber performances in Spain, Slovakia, Austria & Vietnam"],
       "current": ["Faculty, Locust Street Music School, Kansas City", "Music Director"],
-      "bio": "Yoon Hyunki holds a D.M.A. from UMKC and won First Prize at The American Prize. He made his Carnegie Hall debut in New York in 2015 and currently teaches at Locust Street Music School in Kansas City."
+      "bio": "Yoon Hyunki holds a master's degree from the University of Missouri and a D.M.A. from UMKC. He has won First Prize at both the MMTA Competition and The American Prize, and placed second at the American Protégé International Competition. He made his Carnegie Hall debut in 2015 and has performed in Spain, Slovakia, Austria, and Vietnam. He currently teaches at Locust Street Music School in Kansas City."
+    }
+  },
+  {
+    "id": "jung-gyeoun",
+    "slug": "jung-gyeoun",
+    "order": 14,
+    "photo": "assets/images/members/jung-gyeoun.jpg",
+    "ko": {
+      "name": "정겨운",
+      "role": "해금 (객원)",
+      "education": ["서울대학교 음악대학 국악과 졸업", "서울대학교 동대학원 박사과정 졸업"],
+      "awards": ["부산시립국악관현악단 상임단원 역임"],
+      "current": ["추계예술대학교 외래교수", "해금살롱 대표"],
+      "bio": "서울대학교 음악대학 국악과를 졸업하고 동대학원 박사과정을 수료하였습니다. 부산시립국악관현악단 상임단원을 역임하였으며, 현재 추계예술대학교 외래교수 및 해금살롱 대표로 활동 중입니다."
+    },
+    "en": {
+      "name": "Jung Gyeoun",
+      "role": "Haegeum (Guest)",
+      "education": ["B.M. Korean Traditional Music, Seoul National University", "Ph.D. Korean Traditional Music, Seoul National University"],
+      "awards": ["Former Permanent Member, Busan Metropolitan Traditional Music Orchestra"],
+      "current": ["Adjunct Professor, Chugye University for the Arts", "Director, Haegeum Salon"],
+      "bio": "Jung Gyeoun received both her undergraduate and doctoral degrees in Korean traditional music from Seoul National University. After serving with the Busan Metropolitan Traditional Music Orchestra, she currently teaches at Chugye University for the Arts and directs the Haegeum Salon."
     }
   },
   {
     "id": "jung-gangseok",
     "slug": "jung-gangseok",
-    "order": 16,
-    "photo": "assets/images/members/jung-gangseok.webp",
+    "order": 15,
+    "photo": "assets/images/members/jung-gangseok.png",
     "ko": {
       "name": "정강석",
       "role": "작곡",
-      "education": ["창원대학교 기악·작곡", "부산대학교 대학원 지휘"],
-      "awards": [],
-      "current": ["창원시립교향악단 단무장", "뚜띠앙상블 지휘자"],
-      "bio": "창원대학교에서 기악·작곡을 공부하고 부산대학교 대학원에서 지휘를 전공하였습니다. 창원음악협회 회장을 역임하였으며, 현재 창원시립교향악단 단무장 및 뚜띠앙상블 지휘자로 활동 중입니다."
+      "education": ["창원대학교 음악과 기악·작곡 졸업", "창원대학교 대학원 작곡 졸업", "부산대학교 대학원 지휘 졸업"],
+      "awards": ["창원대학교·창신대학교 출강 역임", "창원음악협회 회장 역임"],
+      "current": ["창원시립교향악단 단무장", "뚜띠앙상블 지휘자", "진주사랑작곡가협회 회원", "경남작곡가회 회원", "창원현대음악 작곡가회 회원"],
+      "bio": "창원대학교에서 기악·작곡을 공부하고 대학원에서 작곡, 부산대학교 대학원에서 지휘를 전공하였습니다. 창원대학교·창신대학교 출강 및 창원음악협회 회장을 역임하였습니다. 현재 창원시립교향악단 단무장, 뚜띠앙상블 지휘자로 활동하며 진주사랑작곡가협회, 경남작곡가회, 창원현대음악 작곡가회 회원으로 활동 중입니다."
     },
     "en": {
       "name": "Jung Gangseok",
       "role": "Composition",
-      "education": ["B.M. Instrumental Music & Composition, Changwon National University", "Graduate Studies in Conducting, Pusan National University"],
-      "awards": [],
-      "current": ["Orchestra Manager, Changwon City Symphony Orchestra", "Conductor, Tutti Ensemble"],
-      "bio": "Jung Gangseok studied composition at Changwon National University and conducting at Pusan National University. After serving as president of the Changwon Music Association, he currently works as Orchestra Manager of the Changwon City Symphony Orchestra and Conductor of Tutti Ensemble."
+      "education": ["B.M. Instrumental Music & Composition, Changwon National University", "M.M. Composition, Changwon National University Graduate School", "Graduate Studies in Conducting, Pusan National University"],
+      "awards": ["Former Lecturer, Changwon National University & Changshin University", "Former President, Changwon Music Association"],
+      "current": ["Orchestra Manager, Changwon City Symphony Orchestra", "Conductor, Tutti Ensemble", "Member, Jinju Love Composers Association", "Member, Gyeongnam Composers Association", "Member, Changwon Contemporary Music Composers Association"],
+      "bio": "Jung Gangseok studied composition at Changwon National University and conducting at Pusan National University. He has served as a lecturer at Changwon National University and Changshin University, and as president of the Changwon Music Association. He currently works as Orchestra Manager of the Changwon City Symphony Orchestra and conducts the Tutti Ensemble."
     }
   }
 ]

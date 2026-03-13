@@ -112,6 +112,7 @@ Hello/
 
   /* 악보 오선지 모티프 (CSS 배경 패턴으로 subtle 적용) */
   --pattern-staff: repeating-linear-gradient(
+    
     transparent 0px, transparent 10px,
     rgba(184, 134, 11, 0.06) 10px, rgba(184, 134, 11, 0.06) 11px
   );

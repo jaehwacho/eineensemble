@@ -1,1 +1,11 @@
-[]
+[
+  { "src": "assets/images/gallery/post1.jpg",  "ko": { "caption": "아이네앙상블 공연 포스터 1" }, "en": { "caption": "Eine Ensemble Concert Poster 1" } },
+  { "src": "assets/images/gallery/post2.png",  "ko": { "caption": "아이네앙상블 공연 포스터 2" }, "en": { "caption": "Eine Ensemble Concert Poster 2" } },
+  { "src": "assets/images/gallery/post3.jpg",  "ko": { "caption": "아이네앙상블 공연 포스터 3" }, "en": { "caption": "Eine Ensemble Concert Poster 3" } },
+  { "src": "assets/images/gallery/post4.jpg",  "ko": { "caption": "아이네앙상블 공연 포스터 4" }, "en": { "caption": "Eine Ensemble Concert Poster 4" } },
+  { "src": "assets/images/gallery/post5.jpg",  "ko": { "caption": "아이네앙상블 공연 포스터 5" }, "en": { "caption": "Eine Ensemble Concert Poster 5" } },
+  { "src": "assets/images/gallery/post6.jpg",  "ko": { "caption": "아이네앙상블 공연 포스터 6" }, "en": { "caption": "Eine Ensemble Concert Poster 6" } },
+  { "src": "assets/images/gallery/post7.png",  "ko": { "caption": "아이네앙상블 공연 포스터 7" }, "en": { "caption": "Eine Ensemble Concert Poster 7" } },
+  { "src": "assets/images/gallery/post8.jpg",  "ko": { "caption": "아이네앙상블 공연 포스터 8" }, "en": { "caption": "Eine Ensemble Concert Poster 8" } },
+  { "src": "assets/images/gallery/post9.jpg",  "ko": { "caption": "아이네앙상블 공연 포스터 9" }, "en": { "caption": "Eine Ensemble Concert Poster 9" } }
+]
