@@ -328,5 +328,33 @@
       "current": ["Orchestra Manager, Changwon City Symphony Orchestra", "Conductor, Tutti Ensemble", "Member, Jinju Love Composers Association", "Member, Gyeongnam Composers Association", "Member, Changwon Contemporary Music Composers Association"],
       "bio": "Jung Gangseok studied composition at Changwon National University and conducting at Pusan National University. He has served as a lecturer at Changwon National University and Changshin University, and as president of the Changwon Music Association. He currently works as Orchestra Manager of the Changwon City Symphony Orchestra and conducts the Tutti Ensemble."
     }
+  },
+  {
+    "id": "jo-inkuk",
+    "slug": "jo-inkuk",
+    "order": 16,
+    "photo": "assets/images/members/jo-inkuk.jpg",
+    "ko": {
+      "name": "조인국",
+      "role": "클라리넷 (객원)",
+      "education": [
+        "독일 Duisburg 국립음대 졸업",
+        "네덜란드 Maastricht 국립음악원 졸업"
+      ],
+      "awards": [],
+      "current": ["창원시립교향악단 단원"],
+      "bio": "독일 Duisburg 국립음대와 네덜란드 Maastricht 국립음악원을 졸업하였으며, 현재 창원시립교향악단 단원으로 활동 중입니다."
+    },
+    "en": {
+      "name": "Jo Inkuk",
+      "role": "Clarinet (Guest)",
+      "education": [
+        "Hochschule für Musik Duisburg, Germany",
+        "Conservatorium Maastricht, Netherlands"
+      ],
+      "awards": [],
+      "current": ["Member, Changwon City Symphony Orchestra"],
+      "bio": "Jo Inkuk studied at the Hochschule für Musik Duisburg in Germany and the Conservatorium Maastricht in the Netherlands. He currently serves as a member of the Changwon City Symphony Orchestra."
+    }
   }
 ]
