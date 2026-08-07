@@ -890,6 +890,8 @@ p {
 }
 
 .gallery-item {
+  aspect-ratio: 3 / 4;
+  background: var(--color-bg-warm);
   border-radius: var(--radius-sm);
   overflow: hidden;
   cursor: pointer;
@@ -898,6 +900,8 @@ p {
 
 .gallery-item img {
   width: 100%;
+  height: 100%;
+  object-fit: contain;
   display: block;
   transition: transform var(--transition-normal);
 }

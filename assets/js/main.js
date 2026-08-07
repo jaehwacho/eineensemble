@@ -235,8 +235,19 @@ async function renderConcerts() {
     const concerts = await res.json();
 
     function renderList(lang) {
-      const upcoming = concerts.filter(c => c.status !== 'past');
-      const past = concerts.filter(c => c.status === 'past').slice(0, 3);
+      const newestFirst = (a, b) => {
+        const aTime = Date.parse(a.date);
+        const bTime = Date.parse(b.date);
+        return (Number.isNaN(bTime) ? -Infinity : bTime)
+          - (Number.isNaN(aTime) ? -Infinity : aTime);
+      };
+      const upcoming = concerts
+        .filter(c => c.status !== 'past')
+        .sort(newestFirst);
+      const past = concerts
+        .filter(c => c.status === 'past')
+        .sort(newestFirst)
+        .slice(0, 3);
       const display = [...upcoming, ...past];
 
       if (!display.length) {
