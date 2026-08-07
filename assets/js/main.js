@@ -2,10 +2,12 @@
  * main.js — Entry point, initialization
  */
 
-import Navigation from './navigation.js';
-import Animations from './animations.js';
-import Gallery from './gallery.js';
-import I18n from './i18n.js';
+import Navigation from './navigation.js?v=20260807-2';
+import Animations from './animations.js?v=20260807-2';
+import Gallery from './gallery.js?v=20260807-2';
+import I18n from './i18n.js?v=20260807-2';
+
+const DATA_FETCH_OPTIONS = { cache: 'no-store' };
 
 // ----------------------------------------
 // Members rendering
@@ -17,7 +19,7 @@ async function renderMembers() {
   try {
     // Support both root-level and members/ subdirectory
     const basePath = document.location.pathname.includes('/members/') ? '../' : '';
-    const res = await fetch(`${basePath}data/members.json`);
+    const res = await fetch(`${basePath}data/members.json`, DATA_FETCH_OPTIONS);
     if (!res.ok) throw new Error('Failed to load members');
     const members = await res.json();
 
@@ -85,7 +87,7 @@ async function renderGallery() {
 
   try {
     const basePath = document.location.pathname.includes('/members/') ? '../' : '';
-    const res = await fetch(`${basePath}data/gallery.json`);
+    const res = await fetch(`${basePath}data/gallery.json`, DATA_FETCH_OPTIONS);
     if (!res.ok) throw new Error('Failed to load gallery');
     const photos = await res.json();
 
@@ -133,7 +135,7 @@ async function renderVideos() {
 
   try {
     const basePath = document.location.pathname.includes('/members/') ? '../' : '';
-    const res = await fetch(`${basePath}data/videos.json`);
+    const res = await fetch(`${basePath}data/videos.json`, DATA_FETCH_OPTIONS);
     if (!res.ok) throw new Error('Failed to load videos');
     const videos = await res.json();
 
@@ -230,7 +232,7 @@ async function renderConcerts() {
 
   try {
     const basePath = document.location.pathname.includes('/members/') ? '../' : '';
-    const res = await fetch(`${basePath}data/concerts.json`);
+    const res = await fetch(`${basePath}data/concerts.json`, DATA_FETCH_OPTIONS);
     if (!res.ok) throw new Error('Failed to load concerts');
     const concerts = await res.json();
 
@@ -314,7 +316,7 @@ async function renderHistory() {
 
   try {
     const basePath = document.location.pathname.includes('/members/') ? '../' : '';
-    const res = await fetch(`${basePath}data/history.json`);
+    const res = await fetch(`${basePath}data/history.json`, DATA_FETCH_OPTIONS);
     if (!res.ok) throw new Error('Failed to load history');
     const items = await res.json();
 
