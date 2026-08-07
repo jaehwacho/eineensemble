@@ -140,7 +140,9 @@ async function renderVideos() {
     function renderGrid(lang) {
       container.innerHTML = videos.map(video => {
         const data = video[lang] || video.ko;
-        const thumbUrl = `https://img.youtube.com/vi/${video.youtubeId}/hqdefault.jpg`;
+        const thumbUrl = video.thumbnail
+          ? `${basePath}${video.thumbnail}`
+          : `https://img.youtube.com/vi/${video.youtubeId}/hqdefault.jpg`;
 
         return `
           <div class="video-card animate-on-scroll"

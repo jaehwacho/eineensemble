@@ -1,5 +1,102 @@
 [
   {
+    "id": "video-2026-01",
+    "youtubeId": "AiIdFjIxics",
+    "ko": {
+      "title": "2026년 제35회 아이네앙상블 정기연주회",
+      "description": "물숨 (Water Breath) / 김종완 작곡"
+    },
+    "en": {
+      "title": "2026 35th Eine Ensemble Regular Concert",
+      "description": "Water Breath / Composed by Kim Jongwan"
+    }
+  },
+  {
+    "id": "video-2026-02",
+    "youtubeId": "CcBxpoxu7UY",
+    "ko": {
+      "title": "2026년 제35회 아이네앙상블 정기연주회",
+      "description": "백두산 함가 / 정강석 작곡, 김영 작사"
+    },
+    "en": {
+      "title": "2026 35th Eine Ensemble Regular Concert",
+      "description": "Song of the Baekdusan Ship / Music by Jung Gangseok, Lyrics by Kim Young"
+    }
+  },
+  {
+    "id": "video-2026-03",
+    "youtubeId": "8IVUmjGN4DI",
+    "ko": {
+      "title": "2026년 제35회 아이네앙상블 정기연주회",
+      "description": "바다가 보이는 마을 (마녀 배달부 키키 OST)"
+    },
+    "en": {
+      "title": "2026 35th Eine Ensemble Regular Concert",
+      "description": "A Town with an Ocean View (Kiki's Delivery Service OST)"
+    }
+  },
+  {
+    "id": "video-2026-04",
+    "youtubeId": "A_zqzDCye4Q",
+    "ko": {
+      "title": "2026년 제35회 아이네앙상블 정기연주회",
+      "description": "진해만의 탄식 II / 강병곤 작곡"
+    },
+    "en": {
+      "title": "2026 35th Eine Ensemble Regular Concert",
+      "description": "Lament of Jinhae Bay II / Composed by Kang Byunggon"
+    }
+  },
+  {
+    "id": "video-2026-05",
+    "youtubeId": "MToxHKDWGmM",
+    "ko": {
+      "title": "2026년 제35회 아이네앙상블 정기연주회",
+      "description": "항해 (The Sail) / 김종완 작곡"
+    },
+    "en": {
+      "title": "2026 35th Eine Ensemble Regular Concert",
+      "description": "The Sail / Composed by Kim Jongwan"
+    }
+  },
+  {
+    "id": "video-2026-06",
+    "youtubeId": "atRc7UOP2ck",
+    "ko": {
+      "title": "2026년 제35회 아이네앙상블 정기연주회",
+      "description": "비트박스 / 권기찬 상병"
+    },
+    "en": {
+      "title": "2026 35th Eine Ensemble Regular Concert",
+      "description": "Beatbox / Corporal Kwon Gichan"
+    }
+  },
+  {
+    "id": "video-2026-07",
+    "youtubeId": "Jdw7pBg5gd0",
+    "ko": {
+      "title": "2026년 제35회 아이네앙상블 정기연주회",
+      "description": "마술 공연 / 김정우 일병"
+    },
+    "en": {
+      "title": "2026 35th Eine Ensemble Regular Concert",
+      "description": "Magic Performance / Private First Class Kim Jungwoo"
+    }
+  },
+  {
+    "id": "video-2026-08",
+    "youtubeId": "FOuCLcaPzM4",
+    "thumbnail": "assets/images/gallery/concert-2026-06-20.jpg",
+    "ko": {
+      "title": "2026년 제35회 아이네앙상블 정기연주회",
+      "description": "PC-701 백두산함 — 대한해협해전을 기리며 / 정강석 작곡"
+    },
+    "en": {
+      "title": "2026 35th Eine Ensemble Regular Concert",
+      "description": "PC-701 Baekdusan — In Commemoration of the Battle of the Korea Strait / Composed by Jung Gangseok"
+    }
+  },
+  {
     "id": "video-01",
     "youtubeId": "CifJR2VIFe8",
     "ko": {
