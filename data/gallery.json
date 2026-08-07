@@ -1,4 +1,6 @@
 [
+  { "src": "assets/images/gallery/concert-2026-06-25.jpg", "ko": { "caption": "2026 해군작전사령부 호국음악회 포스터" }, "en": { "caption": "2026 Patriotic Concert with ROK Fleet Command Poster" } },
+  { "src": "assets/images/gallery/concert-2026-06-20.jpg", "ko": { "caption": "2026 제35회 아이네앙상블 정기연주회 포스터" }, "en": { "caption": "2026 35th Eine Ensemble Regular Concert Poster" } },
   { "src": "assets/images/gallery/post1.jpg",  "ko": { "caption": "아이네앙상블 공연 포스터 1" }, "en": { "caption": "Eine Ensemble Concert Poster 1" } },
   { "src": "assets/images/gallery/post2.png",  "ko": { "caption": "아이네앙상블 공연 포스터 2" }, "en": { "caption": "Eine Ensemble Concert Poster 2" } },
   { "src": "assets/images/gallery/post3.jpg",  "ko": { "caption": "아이네앙상블 공연 포스터 3" }, "en": { "caption": "Eine Ensemble Concert Poster 3" } },
