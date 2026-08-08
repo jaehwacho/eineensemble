@@ -2,10 +2,10 @@
  * main.js — Entry point, initialization
  */
 
-import Navigation from './navigation.js?v=20260807-2';
-import Animations from './animations.js?v=20260807-2';
-import Gallery from './gallery.js?v=20260807-2';
-import I18n from './i18n.js?v=20260807-2';
+import Navigation from './navigation.js?v=20260808-1';
+import Animations from './animations.js?v=20260808-1';
+import Gallery from './gallery.js?v=20260808-1';
+import I18n from './i18n.js?v=20260808-1';
 
 const DATA_FETCH_OPTIONS = { cache: 'no-store' };
 

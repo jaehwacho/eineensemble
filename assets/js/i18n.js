@@ -83,7 +83,7 @@ const i18nData = {
     'about.stat.founded': 'Founded',
     'about.stat.concerts': 'Regular Concerts',
     'about.stat.members': 'Members',
-    'about.stat.countries': 'Countries',
+    'about.stat.countries': 'International Tour',
     'about.history.title': 'History',
     'members.section.title': 'Members',
     'members.section.subtitle': 'Fifteen outstanding musicians performing together',
