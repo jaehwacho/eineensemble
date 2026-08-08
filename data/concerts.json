@@ -3,7 +3,7 @@
     "id": "concert-2026-hoeguk-changwon",
     "date": "2026-06-20",
     "time": "오후 4시",
-    "status": "upcoming",
+    "status": "past",
     "ko": {
       "title": "제35회 정기공연 — 고맙습니다 PC-701 백두산함",
       "venue": "창원 3.15 아트센터 대공연장",
@@ -21,7 +21,7 @@
     "id": "concert-2026-hoeguk-busan",
     "date": "2026-06-25",
     "time": "오후 7시 30분",
-    "status": "upcoming",
+    "status": "past",
     "ko": {
       "title": "해군작전사와 함께하는 호국음악회",
       "venue": "부산 콘서트홀",

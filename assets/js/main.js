@@ -2,10 +2,10 @@
  * main.js — Entry point, initialization
  */
 
-import Navigation from './navigation.js?v=20260808-1';
-import Animations from './animations.js?v=20260808-1';
-import Gallery from './gallery.js?v=20260808-1';
-import I18n from './i18n.js?v=20260808-1';
+import Navigation from './navigation.js?v=20260808-2';
+import Animations from './animations.js?v=20260808-2';
+import Gallery from './gallery.js?v=20260808-2';
+import I18n from './i18n.js?v=20260808-2';
 
 const DATA_FETCH_OPTIONS = { cache: 'no-store' };
 
@@ -243,14 +243,9 @@ async function renderConcerts() {
         return (Number.isNaN(bTime) ? -Infinity : bTime)
           - (Number.isNaN(aTime) ? -Infinity : aTime);
       };
-      const upcoming = concerts
-        .filter(c => c.status !== 'past')
-        .sort(newestFirst);
-      const past = concerts
-        .filter(c => c.status === 'past')
+      const display = [...concerts]
         .sort(newestFirst)
-        .slice(0, 3);
-      const display = [...upcoming, ...past];
+        .slice(0, 5);
 
       if (!display.length) {
         container.innerHTML = `<p style="color:var(--color-text-muted);text-align:center;padding:2rem;">${lang === 'ko' ? '예정된 공연이 없습니다' : 'No upcoming concerts'}</p>`;
