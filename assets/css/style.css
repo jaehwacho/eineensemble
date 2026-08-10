@@ -486,6 +486,19 @@ p {
   opacity: 0.85;
 }
 
+.about-heading {
+  margin: 1.75rem 0 0.65rem;
+  color: var(--color-primary);
+  font-family: var(--font-heading);
+  font-size: 1.2rem;
+  line-height: 1.45;
+  font-weight: 600;
+}
+
+.about-heading + .about-description {
+  margin-bottom: 0;
+}
+
 .about-highlights {
   display: flex;
   gap: 1rem;
